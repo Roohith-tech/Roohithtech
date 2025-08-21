@@ -173,104 +173,40 @@ Column A                  Column B
 
 (c) require some skill or practice?
 __________________________________________________
+
 (d) are the fastest?
 __________________________________________________
+
 (e) involve going on roads?
 __________________________________________________
+
 (ii) In which mode of transportation
+
 (a) use animals?
 __________________________________________________
+
 (b) require the children to walk?
 __________________________________________________
+
 (c) require motorised or other type of transportation mechanism?
 __________________________________________________
+
 (d) require the children to use own energy other than walking?
 __________________________________________________
- Short Answer Type Question
+
+ # Short Answer Type Question
+ 
 8- Answer in 30-40 words.
+
 (i) What is a trolley? How it moves?
 ______________________________________________________
 ______________________________________________________
 ______________________________________________________
+
 (ii) How 'Jugad' is made?
 ______________________________________________________
 ______________________________________________________
 ______________________________________________________
-www.kanodia.foundation www.kv.school For more worksheets visit www.kv.school www.kv.school
-Page 5 Workbook (EVS Class-4) Chapter 1
-(iii) Compare the difficulties between going to school as shown in Picture 1 and Picture
-2.
 
- Picture 1 Picture 2
-______________________________________________________
-______________________________________________________
-______________________________________________________
- Long Answer Type Question
-9- What are the differences between a bamboo bridge and cement bridge?
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-www.kanodia.foundation www.kv.school For more worksheets visit www.kv.school www.kv.school
-Page 6 Workbook (EVS Class-4) Chapter 1
- Think, Find and Writ
-10- School children face many problems while travelling to school. Mention any five such
-problems.
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-___________________________________________________________
-11- Match the description with the given pictures.
-(i) Riya lives in a small town of Punjab.
-Her school is near her house. She can
-go to school by riding a
-(a)
-(ii) Tayyab lives in Uttarakhand. His
-school is situated on the other side
-of the hill form his house. He goes to
-school through a
-(b)
-(iii) Rajesh and his friends live in a small
-town of Rajasthan. They go to their
-school situated 8 km from their home,
-by taking a
-(c)
-(iv) Adityan lives in Kerala. He lives on
-the bank of river. His school is located
-on the other side of the river. He cross
-the river by a
-(d)
-www.kanodia.foundation www.kv.school For more worksheets visit www.kv.school www.kv.school
-Page 7 Workbook (EVS Class-4) Chapter 1
-12- Write and label the states in a political outline map of India with the help of information
-given.
-(i) The state where children walk through rocky paths. ....................
-(ii) The state where you are living. ....................
-(iii) The state where bamboo bridges are used. ....................
-(iv) The state where children walk through jungles. ....................
-(v) The state where a trolley is used by children to reach the school. ....................
-(vi) The state where children use a jugad to reach the school. ....................
-(vii) The state where a vallam is used by children to reach the school ....................
-(viii) The state where camel-carts are used. ....................
-www.kanodia.foundation www.kv.school For more worksheets visit www.kv.school www.kv.school
-Page 8 Workbook (EVS Class-4) Chapter 1
-13- Complete this analogy.
-(i) camel : .................... horse : Tonga
-(ii) cement bridge : .................... bamboo bridge : not strong
-(iii) ropeway : .................... boat : river
-(iv) desert : .................... plains : bullock-cart
-14- Write the places or states where the following are used to travel?
-(i) Jugad ............................................................
-(ii) Camel cart ............................................................
-(iii) Bamboo bridge ............................................................
-(iv) Vallam ............................................................
-(v) Rope Bridge ............................................................
-15- Complete the following:
-(i) Camel : Camel cart = .................... : Bullock cart
-(ii) Bamboo bridge : .................... = Cement bridge: Strong
-(iii) Rope bridge : .................... = Vallan : Kerala
-(iv) .................... : Kashmir = Rocky path : Uttarakhand
+# The End
+
